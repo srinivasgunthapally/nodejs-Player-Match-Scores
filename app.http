@@ -1,0 +1,7 @@
+GET http://localhost:3000/players/
+###
+GET http://localhost:3000/playerId/
+###
+PUT http://localhost:3000/player/playerId/
+###
+GET http://localhost:3000/match/
